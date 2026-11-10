@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "updated": "2026-11-10T18:17:48.791Z",
+  "positions": [
+    {
+      "sym": "BTC",
+      "name": "Bitcoin",
+      "group": "btc",
+      "qty": 0.36997388,
+      "binance": "BTCUSDT",
+      "cg": "bitcoin"
+    },
+    {
+      "sym": "XRP",
+      "name": "XRP",
+      "group": "alt",
+      "qty": 1334,
+      "binance": "XRPUSDT",
+      "cg": "ripple"
+    },
+    {
+      "sym": "BNB",
+      "name": "BNB",
+      "group": "alt",
+      "qty": 1.02,
+      "binance": "BNBUSDT",
+      "cg": "binancecoin"
+    },
+    {
+      "sym": "MSTR",
+      "name": "Strategy",
+      "group": "stock",
+      "qty": 11,
+      "fut": "MSTRUSDT",
+      "spot": "MSTRBUSDT"
+    },
+    {
+      "sym": "SPCX",
+      "name": "SpaceX",
+      "group": "stock",
+      "qty": 5,
+      "fut": "SPCXUSDT",
+      "spot": "SPCXBUSDT"
+    },
+    {
+      "sym": "GOOG",
+      "name": "Alphabet",
+      "group": "stock",
+      "qty": 6,
+      "fut": "GOOGLUSDT",
+      "spot": "GOOGLBUSDT"
+    },
+    {
+      "sym": "USD",
+      "name": "Dólares",
+      "group": "usd",
+      "qty": 10,
+      "fixed": true
+    }
+  ]
+}
