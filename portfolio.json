@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-11-10T18:18:37.905Z",
+  "updated": "2026-11-16T17:09:51.437Z",
   "positions": [
     {
       "sym": "BTC",
       "name": "Bitcoin",
       "group": "btc",
-      "qty": 0.372,
+      "qty": 0.4112,
       "binance": "BTCUSDT",
       "cg": "bitcoin"
     },
